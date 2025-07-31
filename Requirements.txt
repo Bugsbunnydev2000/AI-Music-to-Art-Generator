@@ -1,0 +1,11 @@
+whisper
+torch
+transformers
+diffusers
+opencv-python
+numpy
+scikit-learn
+moviepy
+Pillow
+matplotlib
+gradio
